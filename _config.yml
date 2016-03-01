@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#B8C0B8'
+    - '#000000'
+    - '#90A0B8'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.17989745488943887
   lightness: 0.9021178096510961
   rhythmicContrast: 0.031052819794407327
   saturation: 0.27626966705662404
 cta: {}
-layout_spectrum: 0.4138662332666255
+layout_spectrum: 0.389664
 name: jvi
 opengraph: {}
 purpose: {}
